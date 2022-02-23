@@ -1,6 +1,6 @@
 ESX = nil
 
-local aseita = true -- Laita tämä falselle jos haluat että roskiksista ei voi löytää aseita
+local aseita = true -- Laita tämä false jos haluat että roskiksista ei voi löytää aseita
 local random = 3 -- Montako itemiä haluat roskiksesta löytyvän (randomilla 0 - random) default 0 - 3 [esm random = 1 roskiksesta löytää max 1]
 
 
